@@ -18,7 +18,7 @@ provided by the OMDb API
 
 ## Version
 
-0.0.1
+0.1.0
 
 ## License
 
