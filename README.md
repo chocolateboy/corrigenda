@@ -4,25 +4,33 @@
 
 Corrections, addenda, and deltas for computer-consumed data which, for whatever reason, can't be fixed at the source
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 - [APIs](#apis)
   - [OMDb](#omdb)
 - [Version](#version)
+- [Curator](#curator)
 - [License](#license)
 
-## APIs
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-### OMDb
+# APIs
+
+## OMDb
 
 * [omdbapi-tomatoes.json](omdb/omdb-tomatoes.json) - corrections for Rotten Tomatoes URLs and metadata
 provided by the OMDb API
 
-## Version
+# Version
 
 0.1.1
 
-## License
+# Curator
 
-Copyright 2017 [chocolateboy](mailto:chocolate@cpan.org).
+[chocolateboy](mailto:chocolate@cpan.org)
+
+# License
 
 These corrections are free to use; you can redistribute and/or modify them under the terms of the
 [Artistic License 2.0](http://www.opensource.org/licenses/artistic-license-2.0.php).
