@@ -33,6 +33,6 @@ provided by the OMDb API
 # License
 
 These corrections are free to use; you can redistribute and/or modify them under the terms of the
-[Artistic License 2.0](http://www.opensource.org/licenses/artistic-license-2.0.php).
+[CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 This data is not endorsed by or affiliated with any of the data providers.
