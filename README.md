@@ -17,9 +17,11 @@ Corrections, addenda, and deltas for computer-consumed data which, for whatever 
 
 # APIs
 
+Links are to CDN-hosted JSON files.
+
 ## OMDb
 
-* [omdbapi-tomatoes.json](omdb/omdb-tomatoes.json) - corrections for Rotten Tomatoes URLs and metadata
+* [OMDb Tomatoes](https://cdn.rawgit.com/chocolateboy/corrigenda/v0.1.2/omdb/omdb-tomatoes.json) - corrections for Rotten Tomatoes URLs and metadata
 provided by the OMDb API
 
 # Version
