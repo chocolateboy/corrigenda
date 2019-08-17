@@ -20,12 +20,12 @@ Links are to CDN-hosted JSON files.
 
 ## OMDb
 
-* [OMDb Tomatoes](https://cdn.jsdelivr.net/gh/chocolateboy/corrigenda@0.2.1/data/omdb-tomatoes.json) -
+* [OMDb Tomatoes](https://cdn.jsdelivr.net/gh/chocolateboy/corrigenda@0.2.2/data/omdb-tomatoes.json) -
 corrections for Rotten Tomatoes URLs and metadata provided by the OMDb API
 
 # Version
 
-0.2.1
+0.2.2
 
 # Curator
 

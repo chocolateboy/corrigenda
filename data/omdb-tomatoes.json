@@ -8,7 +8,7 @@
         "Ratings": [
             {
                 "Source": "Rotten Tomatoes",
-                "Rating": "67%"
+                "Value": "67%"
             }
         ],
         "tomatoURL": "https://www.rottentomatoes.com/m/hostile_border"
